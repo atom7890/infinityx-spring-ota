@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-4.0-spring-09.10.2026-GAPPS-Unofficial.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/spring/17/gapps/Project_Infinity-X-4.0-spring-09.10.2026-GAPPS-Unofficial.zip",
-			"timestamp": 1791559505,git remote add origin https://github.com/atom7890/infinityx-spring-ota.git
-			"md5": "b12c40086d0e3f45ee8796bc83bcb5a1",
-			"size": 2232887708,
-			"version": "4.0"
+			"filename": "Project_Infinity-X-4.1-spring-13.10.2026-GAPPS-Unofficial.zip",
+			"download": "https://sourceforge.net/projects/infinityx-spring/files/17/Project_Infinity-X-4.1-spring-13.10.2026-GAPPS-Unofficial.zip",
+			"timestamp": 1791904323,
+			"md5": "555a151b2cab34900d4892b2db15cb60",
+			"size": 2233320262,
+			"version": "4.1"
 		}
 	]
 }
