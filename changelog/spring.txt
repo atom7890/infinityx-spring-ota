@@ -1,2 +1,3 @@
-infinity 4.1
-build date 14-10-26
+Infinity-X 4.1
+Fixes for Play Integrity
+Build date 20-10-26
