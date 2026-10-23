@@ -1,5 +1,5 @@
 **Xiaomi Spring | Changelog**
-- Integrated KernelSU-Nextv 3.4.2+SUSFS v2.3.0
+- Integrated KernelSU-Next v3.4.2 + SUSFS v2.3.0
 - Updated Linux kernel 6.1.176
 - Fixed duplicate WLAN configurations
 - Cleaned up device tree and power-management settings
