@@ -1,3 +1,7 @@
-Infinity-X 4.1
-Fixes for Play Integrity
-Build date 20-10-26
+**Xiaomi Spring | Changelog**
+- Integrated KernelSU-Nextv 3.4.2+SUSFS v2.3.0
+- Updated Linux kernel 6.1.176
+- Fixed duplicate WLAN configurations
+- Cleaned up device tree and power-management settings
+- Improved suspend behaviour
+**Build by atom7890**
