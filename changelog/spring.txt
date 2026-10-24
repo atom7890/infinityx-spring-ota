@@ -1,7 +1,10 @@
-**Xiaomi Spring | Changelog**
-- Integrated KernelSU-Next v3.4.2 + SUSFS v2.3.0
-- Updated Linux kernel 6.1.176
-- Fixed duplicate WLAN configurations
-- Cleaned up device tree and power-management settings
-- Improved suspend behaviour
-**Build by atom7890**
+INFINITY-X 4.1 BUILD 24-10-26
+  Improvements & Fixes
+- Added Double Tap to Wake (DT2W) support.
+- Added SystemUI proximity optimisation.
+- Fixed DT2W working only once.
+- Fixed deep sleep issues.
+- Improved touchscreen suspend/wake reliability.
+Updates: https://t.me/xiaomi_spring_updates
+Support Group: https://t.me/xiaomi_spring_support
+**Build by https://t.me/IM_ATOM7890**
