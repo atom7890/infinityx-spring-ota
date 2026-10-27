@@ -1,10 +1,17 @@
-INFINITY-X 4.1 BUILD 24-10-26
-  Improvements & Fixes
-- Added Double Tap to Wake (DT2W) support.
-- Added SystemUI proximity optimisation.
-- Fixed DT2W working only once.
-- Fixed deep sleep issues.
-- Improved touchscreen suspend/wake reliability.
-Updates: https://t.me/xiaomi_spring_updates
+ INFINITY-X 4.1 BUILD 26-10-26
+  
+     Improvements & Fixes
+
+• Fixed offline charging.
+• Fixed the device booting into Android when a charger is connected while switched off.
+• Enabled the QTI offline charging screen and battery animation.
+• Corrected firmware mounting during offline charging.
+• Removed the obsolete charger service.
+
 Support Group: https://t.me/xiaomi_spring_support
+
+Updates: https://t.me/xiaomi_spring_updates
+
 **Build by https://t.me/IM_ATOM7890**
+
+
