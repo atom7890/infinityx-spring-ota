@@ -1,6 +1,13 @@
- INFINITY-X 4.1 BUILD 29-10-26
-  
-Integrated translucent glass blur effects across system-wide surfaces.
+ INFINITY-X 4.1 BUILD 31-10-26
+- Integrated MIUI Camera from HyperOS OS3.0.304.0.WOUMIXM.
+- Enabled TrueSight beauty and front Portrait live blur.
+- Fixed rear Portrait processing in saved photos.
+- Fixed photo saving, image colors and rotation.
+- Fixed thumbnail opening and gallery app selection.
+- Fixed camera launcher and shortcut icons.
+- Added SELinux policies for camera processing in Enforcing mode.
+- Replaced Aperture with MIUI Camera.
+Known issue: Rear Portrait blur appears in saved photos but not in the live preview.
 
 Support Group: https://t.me/xiaomi_spring_support
 Updates: https://t.me/xiaomi_spring_updates
