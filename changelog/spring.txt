@@ -1,13 +1,18 @@
-INFINITY-X 4.1 BUILD 01-11-26
+INFINITY-X 4.2 BUILD 07-11-26
 
-- Fixed WhatsApp camera lag after opening and closing MIUI Camera.
-- Fixed MIUI Camera leaving its client identity active after the camera session ends.
-- Added automatic client identity cleanup when the last tracked camera session closes.
+- Synced with the latest Project Infinity-X sources
+- Merged the November 2026 security patch
+- Switched to the default Spring-kernel
+- Restored the combined Internet tile
+- Added adjustable Dynamic Island with corner punch-hole support
+- Added glass blur effects
+- Added optional aggressive standby
+- Added Duck RKP
+- Improved spoofing and banking app compatibility
+- Fixed keybox fetching errors and improved fetch speed
+- Fixed Quick Settings lag and app crashes
 
 Support Group: https://t.me/xiaomi_spring_support
 Updates: https://t.me/xiaomi_spring_updates
 
 ****{Build by https://t.me/IM_ATOM7890}****
-
-
-
