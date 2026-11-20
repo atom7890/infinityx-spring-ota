@@ -1,16 +1,9 @@
-INFINITY-X 4.2 BUILD 07-11-26
+INFINITY-X 4.2 BUILD 20-11-26
 
-- Synced with the latest Project Infinity-X sources
-- Merged the November 2026 security patch
-- Switched to the default Spring-kernel
-- Restored the combined Internet tile
-- Added adjustable Dynamic Island with corner punch-hole support
-- Added glass blur effects
-- Added optional aggressive standby
-- Added Duck RKP
-- Improved spoofing and banking app compatibility
-- Fixed keybox fetching errors and improved fetch speed
-- Fixed Quick Settings lag and app crashes
+- Sync with the latest Project Infinity-X sources
+- Dialer: Revamp UI to Material Compose
+- Messaging: Revamp UI to Material Compose
+- Updater: Revamp UI & Fix live download progress updates
 
 Support Group: https://t.me/xiaomi_spring_support
 Updates: https://t.me/xiaomi_spring_updates
