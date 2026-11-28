@@ -1,9 +1,20 @@
-INFINITY-X 4.2 BUILD 20-11-26
+INFINITY-X 4.2 BUILD 28-11-26
 
-- Sync with the latest Project Infinity-X sources
-- Dialer: Revamp UI to Material Compose
-- Messaging: Revamp UI to Material Compose
-- Updater: Revamp UI & Fix live download progress updates
+• Sync with the latest Project Infinity-X sources
+• Torch: Add strength control
+• Torch: High level drops to low after 30 s
+• SystemUI: Fix torch slider not turning on
+• Dolby: Revamp UI to Material 3 Expressive
+• Dolby: Add AutoEQ and new languages
+• Recovery: Fix fastbootd USB on cold boot
+• Recovery: Fix touch
+• Recovery: Fix ADSP firmware loading
+• Wi-Fi: Tune power saving
+• Wi-Fi: Relax roaming threshold
+• Faster dex2oat on CPUs 4-7
+• Webcam: Add Device as Webcam support
+• SELinux: Add missing labels and rules
+• SELinux: Fix boot-time denials
 
 Support Group: https://t.me/xiaomi_spring_support
 Updates: https://t.me/xiaomi_spring_updates
